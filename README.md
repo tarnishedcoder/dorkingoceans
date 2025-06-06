@@ -14,6 +14,7 @@ This tool automates Google dorking techniques to help security researchers, pene
 - **🔄 Duplicate Prevention**: Automatically filters and stores only unique results
 - **📁 Organized Output**: Saves results to structured text files with clear naming conventions
 - **⚡ Efficient Processing**: Optimized for speed and reliability
+-  also made sure to randomize the requests so you dont get a 429 from google 👌
 
 ## 🛠️ Prerequisites
 
