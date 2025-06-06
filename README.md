@@ -1,2 +1,5 @@
-dork.py in terminal to start it 
-then choose the rest for kinda of files you dorkings for for that website
+1 dork.py in terminal 
+2 paste in the website youre dorking for
+3 choose either one type of file or all or any for a random one
+
+
