@@ -1,4 +1,4 @@
-# Google Dorking Tool
+# dorkingoceans
 
 A Python-based reconnaissance tool for performing automated Google dork searches to discover files and resources on target websites. This tool streamlines the process of finding publicly accessible documents and files through Google's search operators.
 
