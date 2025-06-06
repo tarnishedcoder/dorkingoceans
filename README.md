@@ -26,8 +26,8 @@ This tool automates Google dorking techniques to help security researchers, pene
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/google-dorking-tool.git
-   cd google-dorking-tool
+   git clone https://github.com/tarnishedcoder/dorkingoceans.git
+   cd dorkingoceans
    ```
 
 2. **Install dependencies:**
@@ -146,13 +146,6 @@ Users are responsible for ensuring their use complies with applicable laws and w
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-### Development Setup
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -161,13 +154,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is provided for legitimate security research purposes. Always ensure you have proper authorization before testing any systems you do not own.
 
-## 📞 Support
-
-If you encounter issues or have questions:
-- 🐛 [Report bugs](https://github.com/yourusername/google-dorking-tool/issues)
-- 💡 [Request features](https://github.com/yourusername/google-dorking-tool/issues)
-- 📖 [Check the documentation](https://github.com/yourusername/google-dorking-tool/wiki)
 
 ---
-
-**Made with ❤️ for the security community**
