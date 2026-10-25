@@ -6,24 +6,24 @@ A Python-based reconnaissance tool for performing automated Google dork searches
 
 This tool automates Google dorking techniques to help security researchers, penetration testers, and bug bounty hunters discover publicly accessible files on target domains. It uses Google's `site:` and `filetype:` operators to systematically search for documents that may contain sensitive information.
 
-## ✨ Features
+##  Features
 
-- **🎯 Targeted Filetype Search**: Search for specific file extensions (PDF, DOCX, XLS, etc.)
-- **📋 Comprehensive Scan**: Automatically iterate through common file types
-- **🌐 Broad Discovery**: Perform general site reconnaissance without filetype restrictions  
-- **🔄 Duplicate Prevention**: Automatically filters and stores only unique results
-- **📁 Organized Output**: Saves results to structured text files with clear naming conventions
-- **⚡ Efficient Processing**: Optimized for speed and reliability
+- ** Targeted Filetype Search**: Search for specific file extensions (PDF, DOCX, XLS, etc.)
+- ** Comprehensive Scan**: Automatically iterate through common file types
+- ** Broad Discovery**: Perform general site reconnaissance without filetype restrictions  
+- ** Duplicate Prevention**: Automatically filters and stores only unique results
+- ** Organized Output**: Saves results to structured text files with clear naming conventions
+- ** Efficient Processing**: Optimized for speed and reliability
 -  also made sure to randomize the requests so you dont get a 429 from google 👌
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 - **Python 3.6+**
 - Required Python packages:
   - `requests` - HTTP library for making search requests
   - `beautifulsoup4` - HTML parsing and extraction
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -50,7 +50,7 @@ This tool automates Google dorking techniques to help security researchers, pene
    output_base_path = "/home/user/results"  # Linux/macOS
    ```
 
-## 🚀 Usage
+##  Usage
 
 ### Basic Usage
 
@@ -94,7 +94,7 @@ Enter the filetype to search for: any
 ```
 **Output**: `dorked_links_any.txt`
 
-## 📂 Output Structure
+##  Output Structure
 
 Results are saved in organized text files:
 ```
@@ -126,9 +126,9 @@ Modify the script to:
 - Adjust search parameters and filters
 - Customize result formatting
 
-## ⚖️ Legal and Ethical Considerations
+##  Legal and Ethical Considerations
 
-**⚠️ IMPORTANT DISCLAIMER:**
+** IMPORTANT DISCLAIMER:**
 
 This tool is intended for:
 - ✅ Authorized security testing
@@ -143,15 +143,15 @@ This tool is intended for:
 
 Users are responsible for ensuring their use complies with applicable laws and website terms of service.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License -
 
-## 🛡️ Security Notice
+##  Security Notice
 
 This tool is provided for legitimate security research purposes. Always ensure you have proper authorization before testing any systems you do not own.
 
